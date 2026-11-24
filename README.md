@@ -23,8 +23,6 @@ This assignment uses Python dictionaries to demonstrate hash table behavior.
 
 ## Discussion Board Reflection
 
-## Discussion Board Reflection
-
 While completing this assignment, I learned how Python dictionaries work and how they can be used as hash tables to organize information. I used a Thanksgiving shopping list to practice adding grocery items, looking up prices, updating existing values, and removing items. One thing I learned was that dictionaries use key-value pairs, which makes it easier to find information without having to search through an entire list.
 
 One challenge I encountered was understanding the difference between adding a new key and updating an existing one. I also learned that trying to access or delete a key that does not exist can cause errors if those situations are not handled properly. I overcame this by using methods like `get()` and `pop()` with default values.
